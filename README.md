@@ -1,7 +1,7 @@
 # Elevate
-MERN Project.
-Topic: Job Recuritment
-Div: 6B1
+MERN Project. <br>
+Topic: Job Recuritment <br>
+Div: 6B1 <br>
 Member working on project: 
 Atharva chavan (FrontEnd)
 Mihul Dhakad (Testing and UI design)
