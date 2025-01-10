@@ -12,7 +12,7 @@ This Platform is designed for those who are seacrching and finding for employmen
 
 Member working on project:<br>
 Atharva chavan (FrontEnd)<br>
-Mihul Dhakad (Testing and UI design)
-Gaurav Kushwaha (Database)
-Dev Mangukiya (Documentation and Backend)
-Ashwin Kushwaha (Team Lead)(Backend)
+Mihul Dhakad (Testing and UI design)<br>
+Gaurav Kushwaha (Database)<br>
+Dev Mangukiya (Backend and Documentation)<br>
+Ashwin Kushwaha (Team Lead)(Backend)<br>
