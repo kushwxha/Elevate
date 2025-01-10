@@ -10,8 +10,8 @@ This Platform is designed for those who are seacrching and finding for employmen
 # Flow Diagram
 ![diagram-export-1-10-2025-10_23_52-AM](https://github.com/user-attachments/assets/2dc40742-fe2c-4ba3-8e31-ca0aa42f8b06)
 
-Member working on project:
-Atharva chavan (FrontEnd)
+Member working on project:<br>
+Atharva chavan (FrontEnd)<br>
 Mihul Dhakad (Testing and UI design)
 Gaurav Kushwaha (Database)
 Dev Mangukiya (Documentation and Backend)
